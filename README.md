@@ -1,4 +1,4 @@
-# Chengyang Lu (Lurek)
+# Chengyang Lu (Lurek Lu)
 
 I'm an undergraduate in **Intelligent Manufacturing Engineering at CityUHK (Dongguan)**.
 
