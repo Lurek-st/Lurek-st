@@ -17,6 +17,26 @@
 * **AI Agent 与研究工具** — 面向文献分析、自动化与知识管理的结构化工作流
 * **可复现工程** — 证据可追溯、测试、留出验证、失效分析与真实世界验证
 
+## 技术与工具
+
+### 工程与开发
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### 研究工作流
+
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### AI 与 Agent 工作流
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0F766E?style=flat&logo=openai&logoColor=white)
+
 ## 代表项目
 
 ### [六轴机器人离线运动学参数标定](https://github.com/Lurek-st/six-axis-robot-calibration-report)
