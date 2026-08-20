@@ -13,9 +13,9 @@
 
 ## 当前关注方向
 
-* **工业机器人** — 运动学标定、坐标系与实验验证
-* **AI Agent 与研究工具** — 面向文献分析、自动化与知识管理的结构化工作流
-* **可复现工程** — 证据可追溯、测试、留出验证、失效分析与真实世界验证
+- **工业机器人** — 运动学标定、坐标系与实验验证
+- **AI Agent 与研究工具** — 面向文献分析、自动化与知识管理的结构化工作流
+- **可复现工程** — 证据可追溯、测试、留出验证、失效分析与真实世界验证
 
 ## 技术与工具
 
@@ -39,17 +39,11 @@
 
 ## 代表项目
 
-### [六轴机器人离线运动学参数标定](https://github.com/Lurek-st/six-axis-robot-calibration-report)
-
-面向工业六轴机器人的运动学参数标定项目，涉及 DH 建模、Kabsch/SVD 刚体配准、非线性最小二乘参数辨识、留出验证、重复数据划分、稳定性分析与可辨识性分析。项目明确区分离线内部验证与控制器、真实机器人上的最终验证。
-
-### [PaperForge](https://github.com/Lurek-st/PaperForge)
-
-一个本地优先的 **Zotero → Agent → Obsidian** 研究工作流，用于可追溯的论文深度阅读、结构化证据审查与长期研究知识管理。
-
-### [Typescape / Quiet Editorial Poster](https://github.com/Lurek-st/Typescape)
-
-一个面向 Agent 的视觉设计系统，用于将原始照片转化为克制的编辑艺术海报，并通过明确的用户控制、能力边界以及 Web / Mobile 与本地 Agent 两种工作方式约束生成过程。
+| 项目 | 项目说明 | 链接 |
+|---|---|---|
+| **六轴机器人离线运动学参数标定** | 面向工业六轴机器人的运动学参数标定项目，涉及 DH 建模、Kabsch/SVD 刚体配准、非线性最小二乘参数辨识、留出验证、重复数据划分、稳定性分析与可辨识性分析。项目明确区分离线内部验证与控制器、真实机器人上的最终验证。 | [仓库](https://github.com/Lurek-st/six-axis-robot-calibration-report) |
+| **PaperForge** | 一个本地优先的 **Zotero → Agent → Obsidian** 研究工作流，用于可追溯的论文深度阅读、结构化证据审查与长期研究知识管理。 | [仓库](https://github.com/Lurek-st/PaperForge) |
+| **Typescape / Quiet Editorial Poster** | 一个面向 Agent 的视觉设计系统，用于将原始照片转化为克制的编辑艺术海报，并通过明确的用户控制、能力边界以及 Web / Mobile 与本地 Agent 两种工作方式约束生成过程。 | [仓库](https://github.com/Lurek-st/Typescape) |
 
 ## 我的工作方法
 
