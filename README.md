@@ -17,6 +17,26 @@ I build and study systems at the intersection of **industrial robotics, AI agent
 * **AI Agents & Research Tooling** — structured workflows for literature analysis, automation, and knowledge management
 * **Reproducible Engineering** — evidence traceability, testing, holdout validation, failure analysis, and real-world verification
 
+## Tech & Tools
+
+### Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### Research Workflow
+
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### AI & Agent Workflow
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0F766E?style=flat&logo=openai&logoColor=white)
+
 ## Selected Work
 
 ### [Six-Axis Robot Offline Kinematic Parameter Calibration](https://github.com/Lurek-st/six-axis-robot-calibration-report)
