@@ -1,3 +1,8 @@
+<div align="right">
+
+**English** · [简体中文](./README.zh-CN.md)
+
+</div>
 # Chengyang Lu (Lurek Lu)
 
 I'm an undergraduate in **Intelligent Manufacturing Engineering at CityUHK (Dongguan)**.
