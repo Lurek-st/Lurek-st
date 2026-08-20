@@ -13,9 +13,9 @@ I build and study systems at the intersection of **industrial robotics, AI agent
 
 ## Current Focus
 
-* **Industrial Robotics** — kinematic calibration, coordinate systems, and experimental validation
-* **AI Agents & Research Tooling** — structured workflows for literature analysis, automation, and knowledge management
-* **Reproducible Engineering** — evidence traceability, testing, holdout validation, failure analysis, and real-world verification
+- **Industrial Robotics** — kinematic calibration, coordinate systems, and experimental validation
+- **AI Agents & Research Tooling** — structured workflows for literature analysis, automation, and knowledge management
+- **Reproducible Engineering** — evidence traceability, testing, holdout validation, failure analysis, and real-world verification
 
 ## Tech & Tools
 
@@ -39,23 +39,19 @@ I build and study systems at the intersection of **industrial robotics, AI agent
 
 ## Selected Work
 
-### [Six-Axis Robot Offline Kinematic Parameter Calibration](https://github.com/Lurek-st/six-axis-robot-calibration-report)
-
-Industrial six-axis robot calibration using DH modeling, Kabsch/SVD rigid registration, nonlinear least-squares identification, holdout validation, repeated splits, stability analysis, and identifiability analysis. Offline results are explicitly separated from controller and real-robot validation.
-
-### [PaperForge](https://github.com/Lurek-st/PaperForge)
-
-A local-first **Zotero → Agent → Obsidian** workflow for traceable academic paper reading, structured evidence review, and long-term research knowledge management.
-
-### [Typescape / Quiet Editorial Poster](https://github.com/Lurek-st/Typescape)
-
-An agent-oriented art-direction system for transforming source photographs into restrained editorial posters, with explicit user controls, capability boundaries, and both web/mobile and installed-Agent workflows.
+| Project | What it is | Links |
+|---|---|---|
+| **Six-Axis Robot Offline Kinematic Parameter Calibration** | Industrial six-axis robot calibration using DH modeling, Kabsch/SVD rigid registration, nonlinear least-squares identification, holdout validation, repeated splits, stability analysis, and identifiability analysis. Offline results are explicitly separated from controller and real-robot validation. | [Repository](https://github.com/Lurek-st/six-axis-robot-calibration-report) |
+| **PaperForge** | A local-first **Zotero → Agent → Obsidian** workflow for traceable academic paper reading, structured evidence review, and long-term research knowledge management. | [Repository](https://github.com/Lurek-st/PaperForge) |
+| **Typescape / Quiet Editorial Poster** | An agent-oriented art-direction system for transforming source photographs into restrained editorial posters, with explicit user controls, capability boundaries, and both web/mobile and installed-Agent workflows. | [Repository](https://github.com/Lurek-st/Typescape) |
 
 ## How I Work
 
 **Problem → Prior Art → Smallest Useful Test → Implementation → Validation → Revision**
 
-I use AI agents extensively, but I treat model output as a **candidate, not as evidence**. For research and engineering work, the final judge should be reproducible analysis, tests, measurements, and real-world behavior.
+I use AI agents extensively, but I treat model output as a **candidate, not as evidence**.
+
+For research and engineering work, the final judge should be reproducible analysis, tests, measurements, and real-world behavior.
 
 ## Direction
 
